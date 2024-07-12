@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "role": "Experience:- Front-End",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "Gurgaon",
+    "experiences": [
+      " Experienced in Frontend developer with a solid understanding of HTML, CSS, TailwindCss and JavaScript, along with hands-on experience in creating responsive and interactive web applications using React.js. "
+      
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 1,
+    "role": "Experience:- React.js",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "Gurgaon",
+    "experiences": [
+      "  A React front end developer builds and maintains user interfaces and front-facing components using - no surprises here -React/React.js, which is a front end library and framework. They create interactive applications that run fast and efficiently. "
+      
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 1,
+    "role": "Experience:- React.js",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "may,2024",
+    "location": "Gurgaon",
+    "experiences": [
+      " Sometimes a company may be looking for a front end developer who has specific experience working with React, an open-source Javascript framework/library for building user interfaces."
+      
+    ],
+    "imageSrc": "company/google.png"
+  }
+  
+]
